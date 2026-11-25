@@ -1,0 +1,38 @@
+body {
+  margin: 0;
+  background: #f8f6f0;
+  color: #263a32;
+  font-family: system-ui, sans-serif;
+}
+
+header {
+  padding: 32px 20px;
+  background: #e8eee6;
+  text-align: center;
+}
+
+nav a {
+  margin: 0 12px;
+  color: #263a32;
+  font-weight: bold;
+}
+
+main {
+  width: min(90%, 900px);
+  margin: 32px auto;
+}
+
+section {
+  margin-bottom: 32px;
+}
+
+article {
+  margin-bottom: 12px;
+  padding: 12px 20px;
+  background: white;
+  border-radius: 12px;
+}
+
+article h3 {
+  margin: 0;
+}
