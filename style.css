@@ -117,3 +117,8 @@ nav a {
 #domestic article:nth-of-type(3) > details > summary {
   color: #273e5c;
 }
+img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 8px;
+}
