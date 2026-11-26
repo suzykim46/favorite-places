@@ -125,3 +125,14 @@ img {
   display: block;
   margin-top: 8px;
 }
+/* 장소별 사진 크기 절반 축소 및 2장 배치용 스타일 */
+details img {
+  display: inline-block;
+  width: 48%;
+  min-width: 140px;
+  max-width: 300px;
+  height: auto;
+  margin: 8px 4px 4px 0;
+  border-radius: 10px;
+  vertical-align: top;
+}
