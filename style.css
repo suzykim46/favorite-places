@@ -136,3 +136,27 @@ details img {
   border-radius: 10px;
   vertical-align: top;
 }
+.samseong-place {
+  margin: 6px 0;
+  border: 1px solid #e2e2e2;
+  border-radius: 16px;
+  background: #fafafa;
+}
+
+.samseong-place > summary {
+  padding: 18px 20px;
+  font-weight: 700;
+  cursor: pointer;
+}
+.samseong-place {
+  margin: 6px 0;
+  border: 1px solid #e2e2e2;
+  border-radius: 16px;
+  background: #fafafa;
+}
+
+.samseong-place > summary {
+  padding: 18px 20px;
+  font-weight: 700;
+  cursor: pointer;
+}
